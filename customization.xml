@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomizableActionsSchemas">
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmark" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBookmarkWithMnemonic" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoNextBookmark" is_action="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="MembersPullUp" />
+    <action id="ToggleBookmarkWithMnemonic" />
+    <action id="ToggleBookmark" />
+    <action id="GotoNextBookmark" />
+    <action id="GotoPreviousBookmark" />
+    <action id="ShowBookmarks" />
+  </component>
+</application>
+

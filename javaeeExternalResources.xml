@@ -1,0 +1,20 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="background" location="C:/SvnApps/FPI/BondValuations/software/valuations/src/FPIWaterMarkColour.jpg" />
+    <resource url="http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd" location="C:/Java/libs/hibernate/src/org/hibernate/hibernate-configuration-3.0.dtd" />
+    <resource url="http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" location="C:/Java/libs/hibernate/src/org/hibernate/hibernate-mapping-3.0.dtd" />
+    <resource url="http://jakarta.apache.org/log4j/" location="C:/Java/libs/Log4J/src/java/org/apache/log4j/xml/log4j.dtd" />
+    <resource url="http://java.sun.com/jsp/jstl/core" location="C:/Java/libs/jakarta-taglibs/tld/c.tld" />
+    <resource url="http://jaxme.sourceforge.net/examples/jaxme.xsd" location="C:/Java/libs/JaxMe/ws-jaxme-0.5.2/examples/xs/jaxme.xsd" />
+    <resource url="http://localhost:8080/services/InternationalValuationImpl" location="" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/rollinm.POZ/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/rollinm.POZ/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://struts.apache.org/dtds/struts-2.0.dtd" location="C:/Java/libs/struts/Struts-2/src/core/src/main/resources/struts-2.0.dtd" />
+    <resource url="http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd" location="C:/Java/libs/struts/Struts-2/src/core/src/main/resources/xwork-validator-1.0.2.dtd" />
+    <resource url="http://www.springframework.org/dtd/spring-beans-2.0.dtd" location="C:/Java/libs/spring/dist/resources/spring-beans-2.0.dtd" />
+    <resource url="http://www.springframework.org/dtd/spring-beans.dtd" location="C:/Java/libs/spring/dist/resources/spring-beans.dtd" />
+    <resource url="http://www.springframework.org/schema/beans" location="C:/Java/libs/spring/dist/resources/spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/lang" location="C:/Java/libs/spring/dist/resources/spring-lang-2.0.xsd" />
+    <resource url="log4j.dtd" location="C:/Java/libs/Log4J/src/java/org/apache/log4j/xml/log4j.dtd" />
+  </component>
+</application>

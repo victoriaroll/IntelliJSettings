@@ -1,0 +1,844 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="EditorHightlightingSettings">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ClassHunterApplicationComponent">
+    <ClassFinderDests version="0.1" />
+    <searchInfo type="BRUTE_FORCE" lastLoc="C:\Users\rollinm.POZ" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="FPI" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+        <option name="PORT" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        <option name="SERVER_COMMAND" value="server" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="1234" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+        <option name="PORT" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+  </component>
+  <component name="DimensionService">
+    <location key="replaceTextDialog.0.0.1280.990" x="614" y="452" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.LibrariesEditor.JdkChooserDialog" x="474" y="383" />
+    <location key="CommitChangelistDialog.1280.0.1280.1024" x="1561" y="222" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1280.996" x="218" y="512" />
+    <location key="replaceTextDialog.0.0.1280.993" x="438" y="334" />
+    <location key="#Editor" x="306" y="178" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.996" x="338" y="272" />
+    <location key="#File_Associations.0.0.1280.996" x="474" y="355" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.971" x="400" y="262" />
+    <location key="scopes.0.0.1280.996" x="227" y="211" />
+    <location key="#Struts_Assistant.0.0.1280.996" x="474" y="360" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1280.996" x="428" y="232" />
+    <location key="#WebServices.0.0.1280.996" x="485" y="374" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.984" x="226" y="241" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.1280.990" x="286" y="127" />
+    <location key="#Intention_Settings.0.0.1280.996" x="228" y="160" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.1280.0.1280.1024" x="1818" y="427" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.1280.996" x="328" y="202" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor" x="249" y="48" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.960" x="379" y="239" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.990" x="560" y="603" />
+    <location key="#JetConnect.0.0.1280.996" x="428" y="428" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1280.996" x="423" y="232" />
+    <location key="#Plugins" x="328" y="160" />
+    <location key="#com.intellij.j2ee.jar.BuildJarDialog.1280.0.1280.1024" x="1851" y="308" />
+    <location key="#Compiler.0.0.1280.996" x="406" y="206" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1280.996" x="709" y="535" />
+    <location key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.990" x="351" y="161" />
+    <location key="#WebSphere_Server.0.0.1280.996" x="565" y="521" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1280.990" x="385" y="336" />
+    <location key="#Compiler.0.0.1280.993" x="406" y="215" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.971" x="182" y="208" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1280.990" x="264" y="222" />
+    <location key="#Compiler.0.0.1280.990" x="385" y="92" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1280.993" x="290" y="95" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.990" x="1690" y="285" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog.0.0.1280.996" x="588" y="176" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" x="454" y="422" />
+    <location key="#General.0.0.1280.984" x="303" y="182" />
+    <location key="#com.intellij.ide.util.TreeFileChooserDialog.0.0.1280.990" x="625" y="288" />
+    <location key="replaceTextDialog.0.0.1280.996" x="546" y="281" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog" x="390" y="362" />
+    <location key="IgnoreUnversionedDialog.0.0.1280.996" x="488" y="387" />
+    <location key="DiffWindow.0.0.1280.993" x="0" y="0" />
+    <location key="IgnoredSettingsDialog.0.0.1280.996" x="530" y="351" />
+    <location key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE.0.0.1280.996" x="444" y="384" />
+    <location key="DiffWindow.0.0.1280.996" x="1280" y="3" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1040" x="769" y="236" />
+    <location key="GridCell.Tab.1.center.0.0.1280.996" x="602" y="738" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1280.996" x="488" y="263" />
+    <location key="#Modules" x="291" y="246" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" x="389" y="364" />
+    <location key="GridCell.Tab.1.center.0.0.1280.993" x="1340" y="71" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.960" x="230" y="235" />
+    <location key="#Customizations.0.0.1280.996" x="422" y="253" />
+    <location key="#com.intellij.javaee.dataSource.impl.DataSourcesImportDialog.0.0.1280.996" x="480" y="163" />
+    <location key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.993" x="59" y="251" />
+    <location key="#Project_Structure.1280.0.1280.1024" x="1566" y="210" />
+    <location key="#Version_Control.0.0.1280.993" x="326" y="232" />
+    <location key="#Version_Control.0.0.1280.990" x="337" y="191" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1280.996" x="308" y="429" />
+    <location key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.996" x="513" y="258" />
+    <location key="#com.intellij.j2ee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" x="640" y="567" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1280.990" x="378" y="300" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1920.1040" x="420" y="258" />
+    <location key="#CheckStyle_Plugin.0.0.1280.996" x="220" y="136" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.984" x="374" y="245" />
+    <location key="#Code_Completion.0.0.1280.996" x="294" y="271" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1280.996" x="740" y="357" />
+    <location key="#Version_Control.0.0.1280.996" x="337" y="202" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.990" x="489" y="339" />
+    <location key="#com.intellij.localVcs.ui.FileHistoryDialog.0.0.1280.996" x="42" y="11" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog.0.0.1280.990" x="465" y="388" />
+    <location key="DiffWindow" x="10" y="10" />
+    <location key="#com.intellij.localVcs.ui.FileHistoryDialog.0.0.1280.990" x="193" y="44" />
+    <location key="svn.passwordDialog.1280.0.1280.1024" x="1701" y="402" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.ModulesConfigurator" x="414" y="357" />
+    <location key="svn4idea.checkout.options.0.0.1280.996" x="496" y="407" />
+    <location key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog.0.0.1280.996" x="446" y="329" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1280.996" x="454" y="424" />
+    <location key="IdeErrosDialog.1280.0.1280.1024" x="1629" y="182" />
+    <location key="#Google_Web_Toolkit.0.0.1280.996" x="474" y="414" />
+    <location key="svn.propertyDialog.0.0.1280.996" x="513" y="353" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.971" x="378" y="244" />
+    <location key="DescriptionDialogEditor.0.0.1280.996" x="418" y="385" />
+    <location key="#Debugger.0.0.1280.996" x="306" y="189" />
+    <location key="#General.0.0.1280.960" x="307" y="180" />
+    <location key="#File_Templates" x="291" y="246" />
+    <location key="GridCell.Tab.0.right.0.0.1280.996" x="440" y="666" />
+    <location key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog.0.0.1280.990" x="642" y="88" />
+    <location key="#Compiler.0.0.1280.960" x="406" y="185" />
+    <location key="#General" x="403" y="244" />
+    <location key="#Local_History.0.0.1280.996" x="474" y="319" />
+    <location key="#XPath_Viewer.0.0.1280.996" x="474" y="331" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" x="328" y="314" />
+    <location key="#com.intellij.execution.impl.RunDialog" x="348" y="266" />
+    <location key="#Errors.0.0.1280.996" x="214" y="233" />
+    <location key="#com.intellij.debugger.ui.PropertiesDialog" x="503" y="380" />
+    <location key="#Errors.0.0.1280.993" x="228" y="155" />
+    <location key="EditParametersPopupWindow.0.0.1280.996" x="478" y="418" />
+    <location key="#Errors.0.0.1280.990" x="228" y="133" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1280.0.1280.1024" x="1774" y="303" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1280.993" x="378" y="248" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1040" x="4" y="0" />
+    <location key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor.0.0.1280.996" x="0" y="101" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1280.990" x="377" y="243" />
+    <location key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor.0.0.1280.990" x="114" y="111" />
+    <location key="#Maven_Integration.0.0.1280.996" x="374" y="248" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1040" x="665" y="431" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1280.996" x="376" y="254" />
+    <location key="#Colors_&amp;_Fonts" x="302" y="164" />
+    <location key="#GUI_Designer.0.0.1280.996" x="457" y="387" />
+    <location key="struts2 file set editor.0.0.1280.996" x="329" y="280" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.1280.996" x="360" y="295" />
+    <location key="#GUI_Designer.0.0.1280.993" x="436" y="369" />
+    <location key="struts2 file set editor.0.0.1280.990" x="476" y="195" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1920.1040" x="694" y="223" />
+    <location key="#Errors.0.0.1280.971" x="228" y="144" />
+    <location key="svn.copyDialog.0.0.1280.996" x="361" y="327" />
+    <location key="findTextDialog.1280.0.1280.1024" x="1610" y="276" />
+    <location key="#Version_Control.1280.0.1280.1024" x="1704" y="255" />
+    <location key="#com.intellij.javaee.module.view.dataSource.DatasourcePropertiesPanel.0.0.1280.996" x="369" y="199" />
+    <location key="replaceTextDialog" x="659" y="456" />
+    <location key="#Version_Control" x="350" y="238" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" x="290" y="230" />
+    <location key="#Path_Variables.0.0.1920.1040" x="548" y="253" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1280.996" x="450" y="422" />
+    <location key="#Struts_Assistant.0.0.1280.960" x="474" y="339" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.996" x="249" y="84" />
+    <location key="#Resources.0.0.1280.960" x="278" y="239" />
+    <location key="#Global_Code_Style.0.0.1280.996" x="228" y="135" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.990" x="161" y="96" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.1280.996" x="548" y="280" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper" x="413" y="294" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.1280.993" x="225" y="160" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.993" x="182" y="219" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.990" x="421" y="332" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1280.990" x="1627" y="441" />
+    <location key="antBuildFilePropertiesDialogDimension.1280.0.1280.1024" x="1624" y="183" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.993" x="411" y="324" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" x="487" y="422" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.996" x="417" y="329" />
+    <location key="#Compiler" x="429" y="190" />
+    <location key="#Errors.0.0.1280.960" x="228" y="139" />
+    <location key="#Project_Settings.0.0.1920.1040" x="262" y="98" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.1280.0.1280.1024" x="1738" y="328" />
+    <location key="#Version_Control.0.0.1280.960" x="337" y="181" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog" x="348" y="187" />
+    <location key="#EditWeb Service referenceDialog.0.0.1280.996" x="367" y="368" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.971" x="453" y="374" />
+    <location key="#Hibernate_Tools.0.0.1280.996" x="367" y="250" />
+    <location key="#Application_Servers.0.0.1280.996" x="223" y="322" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1040" x="694" y="273" />
+    <location key="#com.intellij.diagnostic.AbstractSendErrorDialog.0.0.1280.996" x="466" y="325" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" x="377" y="254" />
+    <location key="#File_Templates.0.0.1280.996" x="105" y="47" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.0.1280.996" x="510" y="382" />
+    <location key="#File_Types.0.0.1280.996" x="474" y="282" />
+    <location key="findTextDialog.0.0.1280.971" x="206" y="128" />
+    <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1280.996" x="318" y="67" />
+    <location key="spring file set editor.0.0.1280.996" x="199" y="266" />
+    <location key="GridCell.Tab.1.bottom.0.0.1280.996" x="78" y="699" />
+    <location key="#Updates" x="445" y="410" />
+    <location key="spring file set editor.0.0.1280.990" x="1518" y="240" />
+    <location key="VCS.FileHistoryDialog.0.0.1280.996" x="0" y="0" />
+    <location key="#Errors" x="227" y="164" />
+    <location key="#File_Templates.0.0.1280.990" x="286" y="263" />
+    <location key="#Paths" x="277" y="214" />
+    <location key="#External_Tools.0.0.1280.996" x="372" y="292" />
+    <location key="#GUI_Designer.0.0.1280.984" x="425" y="357" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SelectTemplateDialog.0.0.1280.996" x="346" y="305" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.971" x="202" y="205" />
+    <location key="RollbackCahgnesDialog.0.0.1280.996" x="421" y="223" />
+    <location key="#TODO.0.0.1280.996" x="278" y="233" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.960" x="453" y="201" />
+    <location key="#Colors_&amp;_Fonts.0.0.1280.996" x="303" y="160" />
+    <location key="chooseDestDirectoryDialog.0.0.1280.996" x="477" y="311" />
+    <location key="#ComfyJ_Generator.0.0.1280.996" x="562" y="497" />
+    <location key="AbstractVcsHelper.FilterDialog.0.0.1280.996" x="511" y="397" />
+    <location key="findTextDialog.0.0.1280.960" x="439" y="344" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser" x="378" y="210" />
+    <location key="chooseDestDirectoryDialog.0.0.1280.990" x="477" y="255" />
+    <location key="#Scopes.0.0.1280.990" x="228" y="149" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.1280.0.1280.1024" x="1560" y="242" />
+    <location key="ProcessPopupWindow" x="446" y="343" />
+    <location key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1280.996" x="346" y="176" />
+    <location key="#Scopes.0.0.1280.993" x="228" y="155" />
+    <location key="#Local_History.0.0.1280.960" x="474" y="298" />
+    <location key="#Scopes.0.0.1280.996" x="228" y="160" />
+    <location key="#com.intellij.j2ee.jar.BuildJarActionDialog" x="513" y="357" />
+    <location key="#com.intellij.uiDesigner.palette.ComponentItemDialog" x="538" y="385" />
+    <location key="findTextDialog.0.0.1280.990" x="636" y="489" />
+    <location key="GridCell.Tab.3.center.0.0.1280.996" x="55" y="638" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.990" x="378" y="249" />
+    <location key="#WebServices" x="483" y="375" />
+    <location key="findTextDialog.0.0.1280.996" x="584" y="470" />
+    <location key="findTextDialog.0.0.1280.993" x="364" y="281" />
+    <location key="#JDK_&amp;_Global_Libraries" x="206" y="154" />
+    <location key="MultipleFileMergeDialog.0.0.1280.993" x="347" y="244" />
+    <location key="MultipleFileMergeDialog.0.0.1280.996" x="231" y="262" />
+    <location key="svn.checkoutDialog" x="486" y="253" />
+    <location key="#GUI_Designer.0.0.1280.960" x="457" y="366" />
+    <location key="#Project_Code_Style" x="398" y="200" />
+    <location key="#com.intellij.localVcs.ui.DirectoryHistoryDialog.0.0.1280.990" x="329" y="204" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.990" x="295" y="121" />
+    <location key="#Project_Settings.0.0.1280.984" x="112" y="61" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.996" x="326" y="107" />
+    <location key="#Appearance.0.0.1280.993" x="407" y="164" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.993" x="378" y="255" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.993" x="231" y="189" />
+    <location key="#Appearance.0.0.1280.996" x="472" y="207" />
+    <location key="#Project_Structure.0.0.1280.990" x="228" y="149" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.996" x="378" y="261" />
+    <location key="svn.upgradeDialog.0.0.1280.996" x="398" y="385" />
+    <location key="#com.intellij.j2ee.module.view.web.EditWebRootDialog" x="593" y="569" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.LibraryTableEditor.MyDialogWrapper" x="400" y="262" />
+    <location key="#Project_Structure.0.0.1280.996" x="170" y="206" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.960" x="480" y="355" />
+    <location key="findTextDialog.0.0.1280.984" x="295" y="269" />
+    <location key="#com.intellij.ide.util.MemberChooser.1280.0.1280.1024" x="1791" y="273" />
+    <location key="CommitChangelistDialog.0.0.1280.971" x="281" y="216" />
+    <location key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor" x="146" y="159" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog" x="468" y="421" />
+    <location key="#Images.0.0.1280.996" x="347" y="238" />
+    <location key="svn.repositoryBrowser.0.0.1280.996" x="444" y="250" />
+    <location key="#Project_Settings.0.0.1280.990" x="67" y="54" />
+    <location key="#Resources.0.0.1280.993" x="278" y="255" />
+    <location key="#Project_Settings.0.0.1280.996" x="159" y="117" />
+    <location key="JetConnect.0.0.1280.996" x="378" y="222" />
+    <location key="#Resources.0.0.1280.990" x="348" y="240" />
+    <location key="#Project_Settings.0.0.1280.993" x="116" y="71" />
+    <location key="#Appearance.0.0.1280.984" x="468" y="188" />
+    <location key="findTextDialog.0.0.1920.1040" x="615" y="297" />
+    <location key="#Resources.0.0.1280.996" x="151" y="82" />
+    <location key="#File_Types.0.0.1280.960" x="474" y="261" />
+    <location key="IdeErrosDialog.0.0.1280.990" x="328" y="175" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.990" x="756" y="302" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1280.993" x="454" y="351" />
+    <location key="VCS.ChangelistChooser.0.0.1280.996" x="379" y="366" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1280.996" x="710" y="502" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1280.996" x="443" y="320" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1040" x="327" y="214" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1280.993" x="724" y="335" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.993" x="773" y="293" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.996" x="761" y="389" />
+    <location key="VCS.NewChangelistDialog.0.0.1280.996" x="393" y="376" />
+    <location key="#Updates.0.0.1280.990" x="431" y="362" />
+    <location key="svn.passwordDialog.0.0.1280.996" x="683" y="579" />
+    <location key="#IDEtalk_Options.0.0.1280.996" x="456" y="341" />
+    <location key="#Keymap" x="338" y="164" />
+    <location key="#Resources" x="291" y="296" />
+    <location key="svn4idea.import.options.0.0.1280.996" x="698" y="309" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" x="378" y="264" />
+    <location key="#Code_Completion.0.0.1280.984" x="290" y="255" />
+    <location key="GridCell.Tab.2.center.0.0.1280.996" x="481" y="657" />
+    <location key="#Scopes.0.0.1280.960" x="228" y="139" />
+    <location key="CommitChangelistDialog.0.0.1280.993" x="284" y="228" />
+    <location key="CommitChangelistDialog.0.0.1280.990" x="203" y="218" />
+    <location key="#Path_Variables.0.0.1280.960" x="358" y="230" />
+    <location key="CommitChangelistDialog.0.0.1280.996" x="464" y="305" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1280.996" x="114" y="115" />
+    <location key="#Global_Code_Style.0.0.1280.960" x="228" y="114" />
+    <location key="#Updates.0.0.1280.996" x="430" y="374" />
+    <location key="findTextDialog" x="440" y="351" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1280.990" x="353" y="303" />
+    <location key="#Project_Code_Style.0.0.1280.960" x="385" y="146" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1280.996" x="125" y="361" />
+    <location key="#Appearance.0.0.1280.960" x="472" y="186" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.0.1280.996" x="436" y="223" />
+    <location key="#Live_Templates.0.0.1280.990" x="297" y="228" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.971" x="372" y="288" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1280.990" x="249" y="246" />
+    <location key="#Project_Settings.0.0.1280.971" x="116" y="60" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1280.996" x="641" y="625" />
+    <location key="DetectedSourceRootsDialog.0.0.1280.990" x="715" y="412" />
+    <location key="#Plugins.0.0.1280.996" x="328" y="160" />
+    <location key="#General.0.0.1280.990" x="315" y="254" />
+    <location key="#Path_Variables.0.0.1280.996" x="358" y="251" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.990" x="8" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.AddModuleWizard" x="248" y="309" />
+    <location key="#General.0.0.1280.993" x="307" y="196" />
+    <location key="GridCell.Tab.4.center.0.0.1280.996" x="284" y="672" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.996" x="8" y="0" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog" x="432" y="390" />
+    <location key="#Images.0.0.1280.960" x="347" y="217" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.993" x="8" y="0" />
+    <location key="#General.0.0.1280.996" x="307" y="201" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" x="465" y="392" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1280.996" x="466" y="336" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.971" x="453" y="207" />
+    <location key="#Hibernate_Tools" x="381" y="286" />
+    <location key="#com.intellij.vssSupport.ui.CheckoutFilesDialog.0.0.1280.990" x="503" y="384" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.990" x="345" y="309" />
+    <location key="#Editor.0.0.1280.984" x="314" y="174" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog.0.0.1280.996" x="573" y="263" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.993" x="403" y="382" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1280.990" x="438" y="303" />
+    <location key="#Live_Templates.0.0.1280.996" x="289" y="175" />
+    <location key="#Path_Variables.0.0.1280.990" x="259" y="140" />
+    <location key="GridCell.Tab.0.center.0.0.1280.996" x="435" y="708" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.984" x="374" y="195" />
+    <location key="#Project_Code_Style.0.0.1280.996" x="385" y="167" />
+    <location key="#Project_Structure" x="226" y="161" />
+    <location key="#com.intellij.javaee.dataSource.impl.DataSourceListDialog.0.0.1280.996" x="490" y="168" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1280.996" x="584" y="312" />
+    <location key="#Project_Code_Style.0.0.1280.993" x="385" y="140" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1280.996" x="356" y="284" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.996" x="328" y="207" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.993" x="0" y="0" />
+    <location key="#Path_Variables.0.0.1280.984" x="354" y="236" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.993" x="290" y="333" />
+    <location key="#com.intellij.ide.util.MemberChooser" x="453" y="222" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.990" x="328" y="200" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.990" x="0" y="0" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.984" x="449" y="208" />
+    <location key="#Editor.0.0.1280.996" x="322" y="187" />
+    <location key="#Editor.0.0.1280.993" x="322" y="186" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.990" x="378" y="200" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.996" x="530" y="202" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.993" x="378" y="205" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.960" x="436" y="231" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.996" x="376" y="309" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.996" x="528" y="356" />
+    <location key="#Keymap.0.0.1280.996" x="311" y="198" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.0.1280.990" x="443" y="404" />
+    <location key="#Project_Structure.0.0.1280.960" x="228" y="139" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.996" x="378" y="211" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.993" x="401" y="293" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.0.1280.996" x="442" y="402" />
+    <location key="VCS.ChangesBrowserDialog.0.0.1280.996" x="185" y="197" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog.0.0.1280.990" x="556" y="320" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.996" x="701" y="520" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog" x="377" y="319" />
+    <location key="replaceTextDialog.0.0.1280.971" x="792" y="559" />
+    <location key="IdeErrosDialog.0.0.1280.993" x="328" y="180" />
+    <location key="#Appearance" x="313" y="311" />
+    <location key="IdeErrosDialog.0.0.1280.996" x="326" y="186" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.990" x="372" y="294" />
+    <location key="#Compiler.0.0.1920.1040" x="1063" y="305" />
+    <size key="DebuggerActiveHint.0.0.1280.993" width="1064" height="805" />
+    <size key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1280.996" width="811" height="434" />
+    <size key="#Application_Servers.0.0.1280.996" width="702" height="434" />
+    <size key="#File_Templates.0.0.1280.996" width="1060" height="873" />
+    <size key="DebuggerActiveHint.0.0.1280.996" width="986" height="905" />
+    <size key="#File_Associations.0.0.1280.996" width="626" height="544" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1040" width="1109" height="727" />
+    <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1280.996" width="928" height="862" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.996" width="1202" height="125" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1280.996" width="731" height="529" />
+    <size key="DebuggerActiveHint.0.0.1280.990" width="971" height="883" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup" width="302" height="204" />
+    <size key="DebuggerActiveHint" width="1001" height="956" />
+    <size key="Svn.CompareWithBranchPopup" width="177" height="51" />
+    <size key="#Paths" width="726" height="575" />
+    <size key="#com.intellij.localVcs.ui.DirectoryHistoryDialog_hSplitter.0.0.1280.990" width="300" height="480" />
+    <size key="GridCell.Tab.2.center.0.0.1280.996" width="1194" height="322" />
+    <size key="changelist.details.popup.0.0.1280.996" width="227" height="71" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.971" width="1032" height="746" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1280.996" width="687" height="705" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1280.996" width="1127" height="822" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1280.0.1280.1024" width="619" height="648" />
+    <size key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.990" width="638" height="496" />
+    <size key="chooseDestDirectoryDialog.0.0.1280.996" width="599" height="374" />
+    <size key="#ComfyJ_Generator.0.0.1280.996" width="427" height="203" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1280.990" width="638" height="680" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1280.993" width="794" height="695" />
+    <size key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor.0.0.1280.996" width="1280" height="895" />
+    <size key="ProcessPopupWindow" width="386" height="326" />
+    <size key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1280.996" width="866" height="260" />
+    <size key="#com.intellij.ide.util.FileStructureDialog.0.0.1280.996" width="553" height="550" />
+    <size key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1040" width="973" height="451" />
+    <size key="#Plugins.0.0.1280.996" width="848" height="674" />
+    <size key="#com.intellij.j2ee.jar.BuildJarActionDialog" width="343" height="396" />
+    <size key="GridCell.Tab.4.center.0.0.1280.996" width="1194" height="322" />
+    <size key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE.0.0.1280.996" width="391" height="228" />
+    <size key="DiffWindow.0.0.1280.996" width="1280" height="988" />
+    <size key="GridCell.Tab.1.center.0.0.1280.996" width="1194" height="322" />
+    <size key="GridCell.Tab.3.center.0.0.1280.996" width="1194" height="322" />
+    <size key="GridCell.Tab.1.center.0.0.1280.993" width="1194" height="794" />
+    <size key="MultipleFileMergeDialog.0.0.1280.996" width="799" height="505" />
+    <size key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.993" width="1135" height="490" />
+    <size key="GridCell.Tab.0.center.0.0.1280.996" width="397" height="298" />
+    <size key="#com.intellij.j2ee.jar.BuildJarDialog.0.0.1280.996" width="518" height="489" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1280.996" width="506" height="308" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.990" width="634" height="822" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.996" width="862" height="847" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.993" width="874" height="794" />
+    <size key="DebuggerActiveHint.0.0.1920.1040" width="1253" height="827" />
+    <size key="#Version_Control" width="568" height="439" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" width="700" height="500" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1280.996" width="567" height="536" />
+    <size key="DebuggerActiveHint.0.0.1280.971" width="716" height="368" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.996" width="624" height="609" />
+    <size key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.996" width="944" height="639" />
+    <size key="ShowImplementationPopup.0.0.1280.996" width="602" height="419" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.993" width="624" height="600" />
+    <size key="#Global_Code_Style.0.0.1280.996" width="931" height="724" />
+    <size key="#com.intellij.localVcs.ui.FileHistoryDialog_hSplitter.0.0.1280.990" width="300" height="632" />
+    <size key="ShowImplementationPopup.0.0.1280.990" width="604" height="421" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.990" width="624" height="616" />
+    <size key="#com.intellij.localVcs.ui.FileHistoryDialog.0.0.1280.996" width="1196" height="935" />
+    <size key="javadoc.popup.0.0.1280.990" width="504" height="312" />
+    <size key="DiffWindow" width="1238" height="908" />
+    <size key="#com.intellij.localVcs.ui.FileHistoryDialog.0.0.1280.990" width="990" height="791" />
+    <size key="javadoc.popup.0.0.1280.996" width="504" height="329" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.996" width="636" height="539" />
+    <size key="#com.intellij.localVcs.ui.FileHistoryDialog_hSplitter.0.0.1280.996" width="300" height="746" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.ModulesConfigurator" width="726" height="575" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.960" width="619" height="655" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.996" width="536" height="393" />
+    <size key="svn.repositoryBrowser.0.0.1280.996" width="582" height="438" />
+    <size key="#Project_Settings.0.0.1920.1040" width="1406" height="861" />
+    <size key="JetConnect.0.0.1280.996" width="699" height="553" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog" width="876" height="719" />
+    <size key="#Debugger.0.0.1280.996" width="806" height="733" />
+    <size key="DebuggerActiveHint.0.0.1280.984" width="710" height="667" />
+    <size key="GridCell.Tab.0.right.0.0.1280.996" width="813" height="298" />
+    <size key="#Resources.0.0.1280.996" width="1049" height="727" />
+    <size key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog.0.0.1280.990" width="542" height="345" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.MODE" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="495" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="700" />
+    <extendedState key="#XsltSupport.AssociationsEditor" state="495" />
+    <extendedState key="#com.intellij.j2ee.jar.BuildJarActionDialog.0" state="500" />
+    <extendedState key="#com.intellij.j2ee.jar.BuildJarDialog.0" state="500" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="654" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FileTemplateManager">
+    <deleted_templates>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_templates>
+    <deleted_includes>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_includes>
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="Hibernate Properties" />
+            <item index="1" class="java.lang.String" itemvalue="Hibernate Mapping Template" />
+            <item index="2" class="java.lang.String" itemvalue="Axis Server Config" />
+            <item index="3" class="java.lang.String" itemvalue="Singleton" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+    <templates>
+      <internal_template name="Class" reformat="true" />
+      <internal_template name="Interface" reformat="true" />
+      <internal_template name="Enum" reformat="true" />
+      <internal_template name="AnnotationType" reformat="true" />
+      <internal_template name="Html" reformat="true" />
+      <internal_template name="Xhtml" reformat="true" />
+      <template name="ActionScript Class" reformat="true" />
+      <template name="Axis Server Config" reformat="true" />
+      <template name="Enumeration Class" reformat="true" />
+      <template name="Hibernate Mapping Template" reformat="true" />
+      <template name="Hibernate Properties" reformat="true" />
+      <template name="MobileResourceBundle" reformat="true" />
+      <template name="Mxml Component" reformat="true" />
+      <template name="Singleton" reformat="true" />
+      <template name="TestClass" reformat="true" />
+      <template name="XSLT Stylesheet" reformat="true" />
+    </templates>
+  </component>
+  <component name="GWT.Configuration">
+    <setting name="gwtPath" value="" />
+    <setting name="gwtScriptOutputStyle" value="DETAILED" />
+    <setting name="runGwtCompilerOnMake" value="true" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="JetConnect">
+    <setting name="checkPeriod" value="3" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.incors.plaf.alloy.AlloyIdea" />
+  </component>
+  <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://C:/SvnApps/Trunks/FPI/BondValuations/software/valuations/src/bondassist.properties">
+    <entry context="file://C:/SvnApps/Trunks/FPI/BondValuations/software/valuations/src/im/poz/fpi/valuations/business" url="file://C:/SvnApps/Trunks/FPI/BondValuations/software/valuations/src/bondassist.properties" />
+    <entry context="file://C:/SvnApps/Trunks/FPI/BondValuations/software/valuations/src/im/poz/fpi/valuations/business/business.xml" url="file://C:/SvnApps/Trunks/FPI/BondValuations/software/valuations/src/bondassist.properties" />
+  </component>
+  <component name="LocalHistoryConfiguration">
+    <option name="PURGE_PERIOD" value="2592000000" />
+  </component>
+  <component name="LvcsConfiguration">
+    <option name="LOCAL_VCS_ENABLED" value="true" />
+    <option name="LOCAL_VCS_PURGING_PERIOD" value="864000000" />
+    <option name="ADD_LABEL_ON_PROJECT_OPEN" value="true" />
+    <option name="ADD_LABEL_ON_PROJECT_COMPILATION" value="true" />
+    <option name="ADD_LABEL_ON_FILE_PACKAGE_COMPILATION" value="true" />
+    <option name="ADD_LABEL_ON_PROJECT_MAKE" value="true" />
+    <option name="ADD_LABEL_ON_RUNNING" value="true" />
+    <option name="ADD_LABEL_ON_DEBUGGING" value="true" />
+    <option name="ADD_LABEL_ON_UNIT_TEST_PASSED" value="true" />
+    <option name="ADD_LABEL_ON_UNIT_TEST_FAILED" value="true" />
+    <option name="SHOW_CHANGES_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.3" last-modified="1528839792000" />
+    </local-interpreter>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="generateAnnotations" value="false" />
+    <option name="generateXml" value="true" />
+    <option name="GENERATE_ANNOTATIONS" value="false" />
+    <option name="GENERATE_XML" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="1" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="1" />
+    <option name="CART_SORT_COLUMN_ORDER" value="1" />
+    <available>
+      <option name="myProportion" value="15:70:15:15" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileStructure.narrowDown" value="false" />
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="JUnitSupport.openFailureLine" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="junit_statistics_table_columnsWidth5" value="219" />
+    <property name="RunManagerConfig.showSettingsBeforeRunnig" value="false" />
+    <property name="lvcs_history_dialogWidth1" value="418" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="lvcs_history_dialogWidth0" value="316" />
+    <property name="JUnitSupport.scrollToStackTrace" value="false" />
+    <property name="project.jdk.splitter" value="0.5" />
+    <property name="lvcs_history_dialogWidth2" value="418" />
+    <property name="FileChooser.showHiddens" value="false" />
+    <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
+    <property name="junit_statistics_table_columnsWidth4" value="220" />
+    <property name="junit_statistics_table_columnsWidth3" value="220" />
+    <property name="junit_statistics_table_columnsWidth2" value="220" />
+    <property name="junit_statistics_table_columnsWidth1" value="220" />
+    <property name="junit_statistics_table_columnsWidth0" value="220" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="RunManagerConfig.compileBeforeRunning" value="true" />
+    <property name="JUnitSupport.selectFirtsDefect" value="true" />
+    <property name="runConfigurationTabWebLogic Instance.dividerProportion" value="0.2" />
+    <property name="JUnitSupport.scrollToSource" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="false" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
+    <property name="runConfigurationTab.dividerProportion" value="0.25409836" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="lvcs_history_dialogOrder1" value="1" />
+    <property name="lvcs_history_dialogOrder0" value="0" />
+    <property name="runConfigurationTabTomcat Server.dividerProportion" value="0.2" />
+    <property name="lvcs_history_dialogOrder2" value="2" />
+    <property name="runConfigurationTabRemote.dividerProportion" value="0.2" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="runConfigurationTabApplet.dividerProportion" value="0.2" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="runConfigurationTabApplication.dividerProportion" value="0.2" />
+    <property name="JUnitSupport.trackRunningTest" value="true" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="runConfigurationTabJSR45 Compatible Server.dividerProportion" value="0.2" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="runConfigurationTabPlugin.dividerProportion" value="0.2" />
+    <property name="runConfigurationTabJ2ME.dividerProportion" value="0.2" />
+    <property name="PREFER_CLASSIC_OPTIONS_EDITOR" value="false" />
+    <property name="test_tree_console_proprtion" value="0.26386556" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="Web Module Deployment Descriptor Default Version" value="2.4" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="c:\java\IntelliJ\Sandbox" />
+    <property name="runConfigurationTabJUnit.dividerProportion" value="0.2" />
+    <property name="MemberChooser.insertOverride" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:file://H:/SvnApps/Branches/Dev/BondValuationsGN15Vals/BARoot/BAServices/src/main/resources/im/poz/fpilicenced/valuations/business/BondValuationDocumentResourceBundle" separator="\u005f" />
+  </component>
+  <component name="Refactor-X">
+    <option name="INVERT_BOOLEAN_PREVIEW_USAGES" value="false" />
+    <option name="REMOVE_TYPE_PARAMETER_PREVIEW_USAGES" value="false" />
+    <option name="REMOVE_MIDDLEMAN_DELETE_METHODS" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="ENCAPSULATE_FIELDS_USE_ACCESSORS_WHEN_ACCESSIBLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SSHPasswordProvider">
+    <passwords />
+    <ppkpasswords />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Java/Maven Module" />
+  </component>
+  <component name="SeverityRegistrar">
+    <error>
+      <option name="myName" value="ERROR" />
+      <option name="myVal" value="400" />
+    </error>
+    <warning>
+      <option name="myName" value="WARNING" />
+      <option name="myVal" value="300" />
+    </warning>
+    <information>
+      <option name="myName" value="INFO" />
+      <option name="myVal" value="200" />
+    </information>
+    <server>
+      <option name="myName" value="SERVER PROBLEM" />
+      <option name="myVal" value="100" />
+    </server>
+  </component>
+  <component name="Struts Assistant">
+    <option name="autoscrollToSource" value="false" />
+    <option name="autoscrollFromSource" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://subversion.poz.local:8443/svn/FPI-LinkPlus-Java/trunk" />
+        <option value="https://subversion.poz.local:8443/svn/Nyco/trunk" />
+        <option value="svn://spoza001/illustrations" />
+        <option value="svn://spoza001/riyadbank" />
+        <option value="svn://spoza001/fpi-bonddata" />
+        <option value="svn://spoza001/FPI" />
+        <option value="svn://spoza001/POZ" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://subversion.poz.local:8443/svn/FPI-LinkPlus-Java/trunk" />
+        <option value="https://subversion.poz.local:8443/svn/Nyco/trunk" />
+        <option value="svn://spoza001/illustrations" />
+        <option value="svn://spoza001/riyadbank" />
+        <option value="svn://spoza001/fpi-bonddata" />
+        <option value="svn://spoza001/FPI" />
+        <option value="svn://spoza001/POZ" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="c:/Program Files/TortoiseSVN/bin/svn" />
+  </component>
+  <component name="Tabifier">
+    <tabifier align_annotations="1 spaces" align_annotation_open_parends="0 spaces" align_annotation_value_pairs="0 spaces" align_annotation_close_parends="1 spaces" align_arithmetic_operators="align 1 spaces" align_assignment_operators="align 1 spaces" align_braces="0 spaces" align_typecast_type="align 0 spaces" align_code_block="align 0 spaces" align_colon="0 spaces" align_class="align 0 spaces" align_commas="0 spaces" align_expression_statements="align 0 spaces" align_if_keywords="align 0 spaces" align_if_stmt_conditionals="1 spaces" align_if_stmt_close_parend="0 spaces" align_if_stmt_open_parend="align 1 spaces" align_logical_operators="align 1 spaces" align_method_call_close_parend="align 0 spaces" align_method_call_open_parend="align 0 spaces" align_method_decl_close_parend="0 spaces" align_method_decl_open_parend="0 spaces" align_method_declaration_initial_param_commas="0 spaces" align_method_declaration_initial_params="0 spaces" align_method_declaration_subsequent_param_commas="0 spaces" align_method_declaration_subsequent_params="0 spaces" align_method_names="align 0 spaces" align_modifiers="align 0 spaces rearrange" align_multiple_statements="align 1 spaces" align_new="align 0 spaces" align_new_object="align 1 spaces" align_other_close_parend="align 0 spaces" align_other_open_parend="align 0 spaces" align_parameter_commas="align 0 spaces" align_initial_param_commas="0 spaces" align_initial_params="align 0 spaces" align_subsequent_param_commas="0 spaces" align_subsequent_params="0 spaces" align_relational_operators="align 1 spaces" align_question_mark="0 spaces" align_semicolons="0 spaces" align_statements="align 0 spaces" align_terms="align 0 spaces" align_trailing_comments="align 1 spaces" align_typecast_close_parend="0 spaces" align_typecast_open_parend="align 0 spaces" align_variable_names="align 1 spaces" align_variable_types="align 1 spaces" chain_from_reformat_plugin="true" debug="false" debug_output="/temp/tabifier.txt" delimit_by_blank_lines="false" delimit_by_non_blank_lines="true" delimit_by_statement_type="true" delimit_method_declarations="false" disable_array_initializer_processing="false" expression_parse_nesting_level="2" force_space_before_array_initializer="true" force_space_within_array_initializer="true" group_assignments_with_declarations="false" method_call_similarity_threshold="4" no_selection_means_tabify_entire_file="false" no_space_before_assignment_operators="false" right_justify_numeric_literals="true" run_code_layout_on_preview_pane="false" spaceBetweenEmptyParentheses="false" start_of_column_sequence="align 0 spaces" />
+  </component>
+  <component name="UsageFilteringRuleProvider">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="UsageGroupingRuleProvider">
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" SelectedBinding="ADB" PathToAxis2="c:\java\axis2-1.1.1" PathToXmlBeans="C:\Users\rollinm.POZ\.IntelliJIdea11\system\webservices\xmlbeans-2.3.0">
+    <StubPackage>im.poz.fpi.bloombergserver.webservice</StubPackage>
+    <StubPackage>im.agilitas</StubPackage>
+    <StubPackage>im.poz.fpi.bloombergserver.webservice</StubPackage>
+    <StubPackage>uk.co.friendslife.idws.business.vodaphone.webservice</StubPackage>
+    <StubPackage>uk.co.friendslife.idws.business.ascertia.webservice</StubPackage>
+    <StubPackage>uk.co.friendslife.idws.business.ascertia</StubPackage>
+    <StubPackage>im.poz.fpi.bloombergserver.webservice</StubPackage>
+    <StubPackage>im.poz.fpi.bloombergserver</StubPackage>
+    <StubPackage>im.poz.fpi.link.service</StubPackage>
+    <StubPackage>im.poz.fpi.link</StubPackage>
+    <StubUrl>https://service.bloomberg.com/assets/dl/dlws.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Branches/2155 - Bloomberg 6 day price report/BloombergServer/src/main/resources/wsdl/dlws.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Trunks/FPI-Bloomberg/BloombergServer/src/main/resources/wsdl/dlws.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Trunks/FPI-AllFinanz/src/allfinanz-wsclient/src/main/resources/IF01.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Trunks/FPI-Bloomberg/BloombergServer/src/main/resources/misc/dlws.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Trunks/FPI/IDWS/src/IDWS-SWA/international-portal-services/src/main/resources/META-INF/vodaphone/vodaphone.wsdl</StubUrl>
+    <StubUrl>file:/H:/SvnApps/Trunks/FPI/IDWS/src/IDWS-SWA/international-portal-services/src/main/resources/META-INF/ascertia/signing.wsdl</StubUrl>
+    <StubUrl>https://software.bloomberg.com/datalicensewp/dlws.wsdl</StubUrl>
+    <StubUrl>file:/C:/SvnApps/Trunks/FPI/Bloomberg/BloombergServer/src/main/resources/misc/dlws.wsdl</StubUrl>
+    <StubUrl>https://software.bloomberg.com/datalicensewp/dlws.wsdl</StubUrl>
+    <StubUrl>file:/C:/SvnApps/Trunks/FPI/Bloomberg/BloombergServer/src/main/resources/misc/dlws.wsdl</StubUrl>
+    <StubUrl>https://software.bloomberg.com/datalicensewp/dlws.wsdl</StubUrl>
+    <StubUrl>file:/C:/Apps/Java/Link/InternationalReporting/classes-files/InternationalValuationService.wsdl</StubUrl>
+    <StubUrl>file:/C:/Apps/Java/Link/InternationalReportingTestClient/src/InternationalValuationService.wsdl</StubUrl>
+    <StubUrl>file:/C:/Apps/Java/Link/InternationalReportingTestClient/src/im/poz/fpi/link/services/InternationalValuationService.wsdl</StubUrl>
+    <StubUrl>file:/C:/Apps/Java/Link/InternationalReporting/classes-files/InternationalValuationService.wsdl</StubUrl>
+    <JAXBUrl>file:/H:/SvnApps/Trunks/FPI/IDWS/src/IDWS-SWA/international-portal-services/src/main/resources/META-INF/ascertia/signing.wsdl</JAXBUrl>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="Hibernate Properties" />
+            <item index="1" class="java.lang.String" itemvalue="TestClass" />
+            <item index="2" class="java.lang.String" itemvalue="Hibernate Mapping Template" />
+            <item index="3" class="java.lang.String" itemvalue="Singleton" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" location="$USER_HOME$/.IntelliJIdea90/system/extResources/b7923359_hibernate-reverse-engineering-3.0.dtd" />
+    <resource url="http://www.springframework.org/schema/integration/security/spring-integration-security.xsd" location="$USER_HOME$/.IntelliJIdea12/system/extResources/2bfed93d_spring-integration-security.xsd" />
+    <resource url="log4j.dtd" location="" />
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea90/system/extResources/cbe730b3_maven-v4_0_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/rollinm.POZ/.IntelliJIdea12/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/rollinm.POZ/.IntelliJIdea12/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="log4j.dtd" />
+    <ignored-resource url="http://jakarta.apache.org/log4j/" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces">
+    <enableFiles value="true" />
+    <enableFolders value="true" />
+    <filesTool value="C:\Program Files (x86)\Beyond Compare 3\BComp.com" newValue="C:\Program Files (x86)\Beyond Compare 3\BComp.com" />
+    <foldersTool value="C:\Program Files (x86)\Beyond Compare 3\BComp.exe" newValue="C:\Program Files (x86)\Beyond Compare 3\BComp.exe" />
+  </component>
+</application>

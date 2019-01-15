@@ -1,0 +1,38 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+  </component>
+  <component name="InspectionProfileManager">
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="1" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="2" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="3" class="java.lang.String" itemvalue="INFO" />
+      <item index="4" class="java.lang.String" itemvalue="TYPO" />
+      <item index="5" class="java.lang.String" itemvalue="WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="ERROR" />
+    </list>
+  </component>
+  <component name="SpringEditorOptions">
+    <option name="showMultipleContextsPanel" value="false" />
+    <option name="showProfilesPanel" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\s*(must).*">
+      <option name="FOREGROUND" value="ff32e7" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff3be6" />
+      <option name="EFFECT_TYPE" value="-1" />
+    </pattern>
+    <pattern pattern="\btodo\b.*" />
+  </component>
+</application>

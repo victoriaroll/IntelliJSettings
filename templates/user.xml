@@ -1,0 +1,81 @@
+<templateSet group="user">
+  <template name="hdrf" value="/*&#10;*   $filename$.java&#10;*   Copyright 2007 by&#10;*   Friends Provident International Ltd,&#10;*   Royal Court,&#10;*   Castletown&#10;*   Isle of Man IM5 1RA&#10;*   British Isles&#10;*   All Rights Reserved &#10;*/&#10;" description="Standard FP File Header" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="hdrp" value="/*&#10;*   $filename$.java&#10;*   Copyright 2007 by&#10;*   POZ Ltd,&#10;*   1 Glencruchery Road,&#10;*   Douglas&#10;*   Isle of Man IM25HS&#10;*   British Isles&#10;*   All Rights Reserved &#10;*/&#10;" description="Standard POZ File Header" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="log" value="static Logger logger= LoggerFactory.getLogger($class$.class);&#10;" description="Insert static logger" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="nonull" value="$VAR$ == null ? &quot;&quot; : $VAR$" description="Applies ternary operator to prevent null String" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="cadd" value="compareAdd(&quot;$fieldName$&quot;, updateValues, importRecord$importField$, queryRecord$queryField$);" description="compareAdd call for DDS DAO update" toReformat="false" toShortenFQNames="true">
+    <variable name="fieldName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="importField" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="queryField" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cadl" value="compareAdd(&quot;$fieldName$&quot;, updateValues, importRecord$importField$, queryRecord$queryField$, GladisLookupTables$lookupRef$);" description="compareAdd call for DDS Dao Update, with lookup" toReformat="false" toShortenFQNames="true">
+    <variable name="fieldName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="importField" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="queryField" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="lookupRef" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mpr" value="${$propname$}" description="Maven property insert" toReformat="false" toShortenFQNames="true">
+    <variable name="propname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="tstds" value="@Test&#10;public void test$fieldname$() throws Exception {&#10;    $domainObject$.set$fieldname$(someUpperCaseString);&#10;    assertTrue($domainObject$.get$fieldname$().equals(someUpperCaseString));&#10;}&#10;" description="Test Domain Object String Getter/Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domainObject" expression="" defaultValue="&quot;domainObject&quot;" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tstdd" value="@Test&#10;public void test$fieldname$() throws Exception {&#10;    $domainObject$.set$fieldname$(someHistoricDate);&#10;    assertTrue($domainObject$.get$fieldname$().equals(someHistoricDate));&#10;}&#10;" description="Test Domain Object LocalDate Getter/Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domainObject" expression="" defaultValue="&quot;domainObject&quot;" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tstdi" value="@Test&#10;public void test$fieldname$() throws Exception {&#10;    $domainObject$.set$fieldname$(someInteger);&#10;    assertTrue($domainObject$.get$fieldname$()==someInteger);&#10;}&#10;" description="Test Domain Object Integer Getter/Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="domainObject" expression="" defaultValue="&quot;domainObject&quot;" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

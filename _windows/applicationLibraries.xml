@@ -1,0 +1,643 @@
+<application>
+  <component name="libraryTable">
+    <library name="activation">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jaf/activation.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/jaf/docs/javadocs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="ActiveMQ">
+      <CLASSES>
+        <root url="jar://C:/Java/apps/Apache-ActiveMQ/activemq-all-5.3.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/apps/Apache-ActiveMQ/docs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="Axis1">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/axis/axis1/lib/commons-discovery-0.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/log4j-1.2.8.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/jaxrpc.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/wsdl4j-1.5.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/axis.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/saaj.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/commons-logging-1.0.4.jar!/" />
+        <root url="jar://C:/Java/libs/axis/axis1/lib/axis-ant.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/axis/axis1/docs/apiDocs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="Axis2">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/activation-1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-xmlbeans-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/commons-codec-1.3.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-tools-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axiom-api-1.2.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-kernel-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-java2wsdl-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/backport-util-concurrent-2.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jibx-bind-1.1.3.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/xercesImpl-2.8.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-soapmonitor-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/XmlSchema-1.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/neethi-2.0.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/wstx-asl-3.2.0.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/xalan-2.7.0.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/woden-1.0.0M6.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jaxb-impl-2.0.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-adb-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jaxb-api-2.0.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/commons-fileupload-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/stax-api-1.0.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/commons-logging-1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-adb-codegen-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jaxb-xjc-2.0.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/annogen-0.1.0.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-saaj-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jibx-run-1.1.3.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/wsdl4j-1.6.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/mail-1.4.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/commons-httpclient-3.0.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jaxen-1.1-beta-10.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/commons-io-1.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-jaxbri-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-jibx-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/xml-apis-1.3.03.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/xbean-2.2.0.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/geronimo-spec-jms-1.1-rc4.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-codegen-1.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/servletapi-2.3.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axiom-impl-1.2.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axiom-dom-1.2.2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/jakarta-httpcore-4.0-alpha2.jar!/" />
+        <root url="jar://C:/Java/libs/axis/Axis2/lib/axis2-spring-1.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="BouncyCastleMail">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/BouncyCastle/bcmail-jdk16-146.jar!/" />
+        <root url="jar://C:/Java/libs/BouncyCastle/bcprov-jdk16-146.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="BouncyCastleMail14">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/BouncyCastle14/bcprov-jdk14-139.jar!/" />
+        <root url="jar://C:/Java/libs/BouncyCastle14/bcmail-jdk14-139.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="ComfyJ">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/ComfyJ/lib/comfyj-2.4.jar!/" />
+        <root url="jar://C:/Java/libs/ComfyJ/lib/winpack-3.6.jar!/" />
+        <root url="jar://C:/Java/libs/ComfyJ/lib/jniwrap-3.6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/ComfyJ/javadoc" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="ComfyJ2.7">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/comfyj-2.7/lib/winpack-3.8.jar!/" />
+        <root url="jar://C:/Java/libs/comfyj-2.7/lib/jniwrap-3.8.jar!/" />
+        <root url="jar://C:/Java/libs/comfyj-2.7/lib/comfyj-2.7.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Java/libs/comfyj-2.7/docs/javadoc.zip!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="commons">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/Commons/commons-collections-3.2.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-lang-2.3.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-digester-1.7.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-logging-api-1.0.2.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-logging-1.0.2.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-javaflow-20060411.jar!/" />
+        <root url="jar://C:/Java/libs/Commons/commons-beanutils-1.7.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Commons Codec">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/commons-codec-1.3/commons-codec-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/commons-codec-1.3/docs/api" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="Commons Net">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/CommonsNet/commons-net-1.4.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/CommonsNet/docs/apidocs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/CommonsNet/src/java" />
+      </SOURCES>
+    </library>
+    <library name="commons-codec-1.7">
+      <CLASSES>
+        <root url="file://C:/Java/libs/commons-codec-1.7" />
+        <root url="file://C:/Java/libs/commons-codec-1.7" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/commons-codec-1.7/apidocs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/commons-codec-1.7" />
+        <root url="file://C:/Java/libs/commons-codec-1.7" />
+      </SOURCES>
+      <jarDirectory url="file://C:/Java/libs/commons-codec-1.7" recursive="false" />
+      <jarDirectory url="file://C:/Java/libs/commons-codec-1.7" recursive="false" type="SOURCES" />
+    </library>
+    <library name="Derby">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/db-derby-10.9.1.0-bin/lib/derby.jar!/" />
+        <root url="jar://C:/Java/libs/db-derby-10.9.1.0-bin/lib/derbyclient.jar!/" />
+        <root url="jar://C:/Java/libs/db-derby-10.9.1.0-bin/lib/derbynet.jar!/" />
+        <root url="jar://C:/Java/libs/db-derby-10.9.1.0-bin/lib/derbyrun.jar!/" />
+        <root url="jar://C:/Java/libs/db-derby-10.9.1.0-bin/lib/derbytools.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/db-derby-10.9.1.0-bin/javadoc/jdbc4" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="displaytag-1.1.1">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/DisplayTag/displaytag-1.1.1/displaytag-1.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/DisplayTag/displaytag-1.1.1/docs/displaytag/apidocs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/DisplayTag/displaytag-1.1.1/displaytag/src/main/java" />
+      </SOURCES>
+    </library>
+    <library name="forms_rt">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/forms_rt.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="FPI2003Serial">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/FPISerial2003/pozillustrations.jar!/" />
+        <root url="jar://C:/Java/libs/FPISerial2003/jacob.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Hibernate">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/hibernate/lib/ehcache-1.2.3.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/proxool-0.8.3.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/junit-3.8.1.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/c3p0-0.9.1.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/xerces-2.6.2.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/xml-apis.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jaxen-1.1-beta-7.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/concurrent-1.3.2.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jaas.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/commons-collections-2.1.1.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/ant-swing-1.6.5.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/commons-logging-1.0.4.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/javassist.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jboss-cache.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/checkstyle-all.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/ant-junit-1.6.5.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/antlr-2.7.6.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jdbc2_0-stdext.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/asm.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/ant-1.6.5.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jboss-system.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jgroups-2.2.8.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/cglib-2.1.3.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/swarmcache-1.0rc2.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jboss-common.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/versioncheck.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/log4j-1.2.11.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/connector.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/syndiag2.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/ant-launcher-1.6.5.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/oscache-2.1.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jta.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jboss-jmx.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/ant-antlr-1.6.5.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/jacc-1_0-fr.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/cleanimports.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/lib/asm-attrs.jar!/" />
+        <root url="jar://C:/Java/libs/hibernate/hibernate3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/hibernate/doc" />
+        <root url="file://C:/Java/libs/hibernate/doc/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/hibernate/src" />
+      </SOURCES>
+    </library>
+    <library name="icu4j-3_8">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/icu4j/icu4j-3_8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="IText">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/iText/itext-1.4.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/iText/docs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/iText/src" />
+      </SOURCES>
+    </library>
+    <library name="iText2">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/iText2/iText-2.1.7.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/iText2/docs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/iText2/src/core" />
+        <root url="file://C:/Java/libs/iText2/src/rups" />
+        <root url="file://C:/Java/libs/iText2/src/toolbox" />
+        <root url="file://C:/Java/libs/iText2/src/rtf" />
+      </SOURCES>
+    </library>
+    <library name="jacob">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jacob/jacob.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/jacob/docs/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/jacob/src" />
+      </SOURCES>
+    </library>
+    <library name="jaf">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jaf/activation.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/jaf/docs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="jakarta-oro-2.0.8">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jakarta-oro/jakarta-oro-2.0.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/jakarta-oro/docs/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/jakarta-oro/src" />
+      </SOURCES>
+    </library>
+    <library name="jakarta-taglibs">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jakarta-taglibs/safe/lib/jstl.jar!/" />
+        <root url="jar://C:/Java/libs/jakarta-taglibs/safe/lib/standard.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="janino">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/janino/lib/janino.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/janino/javadoc" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/janino/src" />
+      </SOURCES>
+    </library>
+    <library name="JasperReports">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jasperreports/jasperreports-2.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="JaxMe">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/lib/jaxmeapi-0.5.2.jar!/" />
+        <root url="jar://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/lib/jaxmejs-0.5.2.jar!/" />
+        <root url="jar://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/lib/jaxme2-0.5.2.jar!/" />
+        <root url="jar://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/lib/jaxmexs-0.5.2.jar!/" />
+        <root url="jar://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/lib/jaxme2-rt-0.5.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/docs/apidocs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/JaxMe/ws-jaxme-0.5.2/src/jaxme" />
+      </SOURCES>
+    </library>
+    <library name="JEE">
+      <CLASSES>
+        <root url="jar://C:/Java/JDK/JEE/lib/j2ee.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="JEE V 1.4">
+      <CLASSES>
+        <root url="jar://C:/Java/JDK/JEE/lib/j2ee.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="JGoodiesForms">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/JGoodies-forms/forms-1.0.7.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/JGoodies-forms/docs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/JGoodies-forms/src" />
+      </SOURCES>
+    </library>
+    <library name="JNIWrap3.8">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jniwrapper-3.8.1/lib/jniwrap-3.8.1.jar!/" />
+        <root url="jar://C:/Java/libs/jniwrapper-3.8.1/lib/slf4j-api-1.5.8.jar!/" />
+        <root url="jar://C:/Java/libs/jniwrapper-3.8.1/lib/slf4j-simple-1.5.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Java/libs/jniwrapper-3.8.1/docs/javadoc.zip!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="JodaTime">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/joda-time/joda-time-1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/joda-time/docs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="JSTL">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jakarta-taglibs/jstl-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="JTDS">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/Jtds/jtds-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/Jtds/doc" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/Jtds/src" />
+      </SOURCES>
+    </library>
+    <library name="junit">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/junit/junit-4.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/junit/javadoc" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="junit3">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/junit3/junit.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/junit3/javadoc" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://C:/Java/libs/junit3/src.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="junit4">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/junit4/junit4.5/junit-4.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/junit4/junit4.5/javadoc" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="log4j">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/Log4J/log4j-1.2.13.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/Log4J/docs/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/Log4J/src/java" />
+      </SOURCES>
+    </library>
+    <library name="mail">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/javamail/mail.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/smtp.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/pop3.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/mailapi.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/imap.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/dsn.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/javamail-crypto_060622.jar!/" />
+        <root url="jar://C:/Java/libs/javamail/lib/javamail-crypto-bouncycastle-smime_060622.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/javamail/docs/javadocs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="MSSQL">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/MSSQLJDBCDriver/sqljdbc.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="OpenOffice">
+      <CLASSES>
+        <root url="jar://C:/Program Files/OOo-dev 2.4/program/classes/unoil.jar!/" />
+        <root url="jar://C:/Program Files/OOo-dev 2.4/program/classes/juh.jar!/" />
+        <root url="jar://C:/Program Files/OOo-dev 2.4/program/classes/jurt.jar!/" />
+        <root url="jar://C:/Program Files/OOo-dev 2.4/program/classes/ridl.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/Open Office SDK/docs/common/ref" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="pozutils">
+      <CLASSES>
+        <root url="jar://C:/SvnApps/Trunks/POZ/pozutils/lib/pozutils.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/SvnApps/Trunks/POZ/pozutils/docs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="Python 3.5.2 (C:\Program Files (x86)\Python35-32\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Quartz">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/quartz/Quartz-1.6/lib/build/jta.jar!/" />
+        <root url="jar://C:/Java/libs/quartz/Quartz-1.6/quartz-1.6.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/quartz/Quartz-1.6/docs/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/quartz/Quartz-1.6/src" />
+      </SOURCES>
+    </library>
+    <library name="rowset">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/jdbc-rowset/rowset.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/jdbc-rowset/doc" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.11.7" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.7-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.7-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.7-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Spring Framework">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/Spring/dist/spring.jar!/" />
+        <root url="jar://C:/Java/libs/Spring/lib/jakarta-commons/commons-logging.jar!/" />
+        <root url="jar://C:/Java/libs/Spring/lib/jakarta-commons/commons-dbcp.jar!/" />
+        <root url="jar://C:/Java/libs/Spring/lib/jakarta-commons/commons-pool.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/Spring/docs/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/Spring/src" />
+      </SOURCES>
+    </library>
+    <library name="Struts2">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/ognl-2.6.11.jar!/" />
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/commons-logging-1.0.4.jar!/" />
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/freemarker-2.3.8.jar!/" />
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/struts2-core-2.0.8.jar!/" />
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/xwork-2.0.3.jar!/" />
+        <root url="jar://C:/Java/libs/struts/Struts-2/lib/struts2-spring-plugin-2.0.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/struts/struts-2.1.6/docs/struts2-core/apidocs" />
+        <root url="file://C:/Java/libs/struts/struts-2.1.6/docs/xwork-apidocs" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/struts/struts-2.1.6/src/core/src/main/java" />
+      </SOURCES>
+    </library>
+    <library name="tiles">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/tiles/tiles-core-2.0.4.jar!/" />
+        <root url="jar://C:/Java/libs/tiles/tiles-jsp-2.0.4.jar!/" />
+        <root url="jar://C:/Java/libs/tiles/tiles-api-2.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/tiles/apidocs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="wrapper">
+      <CLASSES>
+        <root url="jar://C:/Java/apps/wrapper-windows-x86-32-3.5.3/lib/wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/apps/wrapper-windows-x86-32-3.5.3/doc" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="Xalan">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/xalan-j_2_7_1/xalan.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/xalan-j_2_7_1/docs/apidocs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="xerces">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/xerces/xml-apis.jar!/" />
+        <root url="jar://C:/Java/libs/xerces/xercesImpl.jar!/" />
+        <root url="jar://C:/Java/libs/xerces/serializer.jar!/" />
+        <root url="jar://C:/Java/libs/xerces/resolver.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/xerces/docs/javadocs/api" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="xstream">
+      <CLASSES>
+        <root url="jar://C:/Java/libs/xstream-1.2.2/xstream/xstream-forJava1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://C:/Java/libs/xstream-1.2.2/xstream/src/java" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://C:/Java/libs/xstream-1.2.2/xstream/src/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

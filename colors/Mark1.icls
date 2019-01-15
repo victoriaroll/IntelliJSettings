@@ -1,0 +1,65 @@
+<scheme name="Mark1" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <attributes>
+    <option name="FILESTATUS_ADDED">
+      <value>
+        <option name="FOREGROUND" value="a7700" />
+      </value>
+    </option>
+    <option name="FILESTATUS_DELETED">
+      <value>
+        <option name="FOREGROUND" value="616161" />
+      </value>
+    </option>
+    <option name="FILESTATUS_DELETED_FROM_FILE_SYSTEM">
+      <value>
+        <option name="FOREGROUND" value="773895" />
+      </value>
+    </option>
+    <option name="FILESTATUS_IGNORED">
+      <value>
+        <option name="FOREGROUND" value="727238" />
+      </value>
+    </option>
+    <option name="FILESTATUS_MERGED">
+      <value>
+        <option name="FOREGROUND" value="7503dc" />
+      </value>
+    </option>
+    <option name="FILESTATUS_MERGED_WITH_CONFLICTS">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+    <option name="FILESTATUS_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="32a0" />
+      </value>
+    </option>
+    <option name="FILESTATUS_UNKNOWN">
+      <value>
+        <option name="FOREGROUND" value="993300" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="57ff50" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ff9d8f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="f9ff7c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

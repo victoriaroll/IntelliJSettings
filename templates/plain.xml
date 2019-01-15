@@ -1,0 +1,9 @@
+<templateSet group="plain">
+  <template name="psf" value="public static final " description="public static final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

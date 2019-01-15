@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+			"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping package="" >
+    <class name="im.poz.fpi.link.eis.XXX" table="XXX">
+        
+        <id name="XXXID"> <generator class="native"/></id>
+        <property name="" type=""/>
+        <property name="" type=""/>
+        <property name="" type=""/>
+        <property name="" type=""/>
+        
+    </class>
+</hibernate-mapping>

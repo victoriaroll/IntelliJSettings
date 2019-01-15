@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:application:OpenOffice)" />
+      <problem id="library-invalid-classes-path(library:application:pozutils)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:pozutils)" />
+    </ignored-problems>
+  </component>
+</application>
+
