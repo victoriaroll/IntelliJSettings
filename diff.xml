@@ -2,9 +2,11 @@
   <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <enableFiles value="true" />
     <enableFolders value="true" />
-    <filesTool value="C:\Program Files (x86)\Beyond Compare 3\BCompare.exe" newValue="C:\Program Files (x86)\Beyond Compare 3\BCompare.exe" />
+    <enableMerge value="true" />
+    <filesTool value="C:\Program Files \Beyond Compare 4\BComp.exe" newValue="C:\Program Files \Beyond Compare 4\BComp.exe" />
     <foldersTool value="C:\Program Files\Beyond Compare 2\BC2.exe" newValue="C:\Program Files\Beyond Compare 2\BC2.exe" />
-    <mergeToolParameters value="%1 %2 %3 %4" />
+    <mergeTool value="C:\Program Files \Beyond Compare 4\BComp.exe" newValue="C:\Program Files \Beyond Compare 4\BComp.exe" />
+    <mergeToolParameters value="%1 %2 %3 %4 /title1=mine /title2=server /title3=unmodified /title4=result" />
   </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
@@ -43,16 +45,36 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.database.model.diff.SchemaDiffTool" />
+              <option value="com.intellij.database.diff.TableDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_DEFAULT" value="true" />
-    <option name="DIFF_EXE_PATH" value="C:\Program Files (x86)\Beyond Compare 3\BCompare.exe" />
-    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
-    <option name="MERGE_ENABLED" value="false" />
-    <option name="MERGE_EXE_PATH" value="" />
-    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
+    <option name="DIFF_EXE_PATH" value="C:\Program Files \Beyond Compare 4\BComp.exe" />
+    <option name="DIFF_PARAMETERS" value="%3 %1 /title1=unmodified /title2=mine /leftreadonly" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="C:\Program Files \Beyond Compare 4\BComp.exe" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4 /title1=mine /title2=server /title3=unmodified /title4=result" />
+    <option name="MERGE_TRUST_EXIT_CODE" value="true" />
   </component>
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
