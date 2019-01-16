@@ -4,15 +4,11 @@
     <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR1" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY" value="false" />
-      <option name="GROOVY_STATEMENT" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="psvm" value="public static void main(String[] args) {&#10;&#9;System.setProperty(&quot;spring.profiles.active&quot;,&quot;dev&quot;);&#10;&#9;ApplicationContext context= new ClassPathXmlApplicationContext(&quot;applicationContext.xml&quot;);&#10;&#10;&#9;$END$&#10;&#10;}&#10;&#10;" description="main() method declaration" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="GROOVY" value="false" />
-      <option name="GROOVY_DECLARATION" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
