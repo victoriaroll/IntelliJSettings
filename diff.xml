@@ -3,10 +3,10 @@
     <enableFiles value="true" />
     <enableFolders value="true" />
     <enableMerge value="true" />
-    <filesTool value="C:\Program Files \Beyond Compare 4\BComp.exe" newValue="C:\Program Files \Beyond Compare 4\BComp.exe" />
+    <filesTool value="C:\Program Files\Beyond Compare 4\BCompare.exe" newValue="C:\Program Files\Beyond Compare 4\BCompare.exe" />
     <foldersTool value="C:\Program Files\Beyond Compare 2\BC2.exe" newValue="C:\Program Files\Beyond Compare 2\BC2.exe" />
-    <mergeTool value="C:\Program Files \Beyond Compare 4\BComp.exe" newValue="C:\Program Files \Beyond Compare 4\BComp.exe" />
-    <mergeToolParameters value="%1 %2 %3 %4 /title1=mine /title2=server /title3=unmodified /title4=result" />
+    <mergeTool value="C:\Program Files\Beyond Compare 4\BCompare.exe" newValue="C:\Program Files\Beyond Compare 4\BCompare.exe" />
+    <mergeToolParameters value="%1 %2 %3 %4 /title1=mine /title2=server /title3=original /title4=result" />
   </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
@@ -69,11 +69,11 @@
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_DEFAULT" value="true" />
-    <option name="DIFF_EXE_PATH" value="C:\Program Files \Beyond Compare 4\BComp.exe" />
-    <option name="DIFF_PARAMETERS" value="%3 %1 /title1=unmodified /title2=mine /leftreadonly" />
+    <option name="DIFF_EXE_PATH" value="C:\Program Files\Beyond Compare 4\BCompare.exe" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 /title1=original /title2=mine /leftreadonly" />
     <option name="MERGE_ENABLED" value="true" />
-    <option name="MERGE_EXE_PATH" value="C:\Program Files \Beyond Compare 4\BComp.exe" />
-    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4 /title1=mine /title2=server /title3=unmodified /title4=result" />
+    <option name="MERGE_EXE_PATH" value="C:\Program Files\Beyond Compare 4\BCompare.exe" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4 /title1=mine /title2=server /title3=original /title4=result" />
     <option name="MERGE_TRUST_EXIT_CODE" value="true" />
   </component>
   <component name="SvnDiffSettings">
