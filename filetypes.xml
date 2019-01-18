@@ -3,10 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping ext="groovy" type="Groovy" />
       <mapping ext="vtl" type="HTML" />
       <mapping ext="do" type="HTML" />
-      <mapping ext="groovy" type="Native" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
