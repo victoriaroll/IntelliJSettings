@@ -18,6 +18,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="field" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
+      <mapping pattern="processInstanceDetails.ts" type="TypeScript" />
       <mapping pattern="riyadbank-build" type="XML" />
       <mapping pattern="BrokerParameterService_Ant_Builds.xml" type="XML" />
       <mapping ext="th" type="ThymeleafExpressions" />
