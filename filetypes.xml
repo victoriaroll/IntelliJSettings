@@ -7,6 +7,7 @@
       <mapping ext="vtl" type="HTML" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
+      <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="Calculator" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
