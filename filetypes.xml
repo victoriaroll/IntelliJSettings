@@ -12,6 +12,7 @@
       <mapping pattern="Calculator" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
