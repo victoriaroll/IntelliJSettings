@@ -2,18 +2,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="vtl" type="HTML" />
       <mapping ext="do" type="HTML" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
       <mapping pattern="Calculator" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
       <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
