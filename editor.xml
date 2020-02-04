@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="LINE_SPACING" value="1.0" />
