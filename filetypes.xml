@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vtl" type="HTML" />
       <mapping ext="do" type="HTML" />
+      <mapping ext="xlsm" type="Native" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
