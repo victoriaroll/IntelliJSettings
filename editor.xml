@@ -3,7 +3,7 @@
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="11" />
+    <option name="FONT_SIZE" value="10" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">

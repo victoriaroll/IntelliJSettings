@@ -4,14 +4,15 @@
     <extensionMap>
       <mapping ext="vtl" type="HTML" />
       <mapping ext="do" type="HTML" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
       <mapping pattern="Calculator" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
