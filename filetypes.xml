@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vtl" type="HTML" />
       <mapping ext="do" type="HTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
