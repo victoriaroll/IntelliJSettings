@@ -24,6 +24,7 @@
       <mapping ext="field" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
+      <mapping pattern="AuthenticationService.ts" type="TypeScript" />
       <mapping pattern="processInstanceDetails.ts" type="TypeScript" />
       <mapping pattern="BrokerParameterService_Ant_Builds.xml" type="XML" />
       <mapping pattern="riyadbank-build" type="XML" />
