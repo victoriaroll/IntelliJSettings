@@ -45,7 +45,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="8.2.2" />
+      <artifact id="SQL Server" name="SQL Server" channel="fixed" rolling="false" use="true" version="8.2.2" />
       <option name="auto-sync" value="false" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
@@ -71,7 +71,6 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
-      <url-template name="default" template="" />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
