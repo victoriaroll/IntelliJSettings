@@ -20,6 +20,7 @@
       <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="flg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
