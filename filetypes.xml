@@ -15,6 +15,7 @@
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="field" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
       <mapping ext="bar" type="PLAIN_TEXT" />
