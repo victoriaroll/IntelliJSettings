@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="Readme" type="AUTO_DETECTED" />
       <mapping ext="do" type="HTML" />
       <mapping ext="vtl" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
