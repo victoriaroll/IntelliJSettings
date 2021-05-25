@@ -5,6 +5,7 @@
       <mapping pattern="Readme" type="AUTO_DETECTED" />
       <mapping ext="do" type="HTML" />
       <mapping ext="vtl" type="HTML" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
