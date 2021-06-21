@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="background" location="C:/SvnApps/FPI/BondValuations/software/valuations/src/FPIWaterMarkColour.jpg" />
+    <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/39e8daee_ehcache.xsd" />
     <resource url="http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd" location="C:/Java/libs/hibernate/src/org/hibernate/hibernate-configuration-3.0.dtd" />
     <resource url="http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" location="C:/Java/libs/hibernate/src/org/hibernate/hibernate-mapping-3.0.dtd" />
     <resource url="http://jakarta.apache.org/log4j/" location="C:/Java/libs/Log4J/src/java/org/apache/log4j/xml/log4j.dtd" />
