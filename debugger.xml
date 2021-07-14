@@ -187,6 +187,9 @@
     <Renderer ID="ClassRenderer">
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
     </Renderer>
+    <Renderer ID="PrimitiveRenderer">
+      <option name="SHOW_HEX_VALUE" value="true" />
+    </Renderer>
   </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
