@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Readme" type="AUTO_DETECTED" />
       <mapping ext="do" type="HTML" />
@@ -10,13 +10,13 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
       <mapping ext="p12" type="Native" />
-      <mapping pattern="users" type="PLAIN_TEXT" />
-      <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="Calculator" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="IllustrationsMiProcessorTests" type="PLAIN_TEXT" />
+      <mapping pattern="Calculator" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="FatcaDocumentSetBuilder" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="field" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
@@ -30,8 +30,8 @@
       <mapping ext="conf" type="Properties" />
       <mapping pattern="AuthenticationService.ts" type="TypeScript" />
       <mapping pattern="processInstanceDetails.ts" type="TypeScript" />
-      <mapping pattern="BrokerParameterService_Ant_Builds.xml" type="XML" />
       <mapping pattern="riyadbank-build" type="XML" />
+      <mapping pattern="BrokerParameterService_Ant_Builds.xml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
